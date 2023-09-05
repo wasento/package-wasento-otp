@@ -83,4 +83,5 @@ stdClass Object
 ```
 
 **NOTE:**
-- [x] OTP code valid for 5 minutes. It`s mean user cannot request multiple times with same phone number before OTP code expired. 
+- [x] OTP code valid for 5 minutes. It`s mean user cannot request multiple times with same phone number before OTP code expired.
+- [x] Get your API Key [here](https://app.wasento.com/plugin)

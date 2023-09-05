@@ -2,7 +2,7 @@
     "name": "wasento/package-wasento-otp",
     "description": "Package OtpWasento",
     "type": "library",
-    "keywords": ["package", "skeleton"],
+    "keywords": ["wa", "whatsapp", "otp", "php", "sdk"],
     "homepage": "https://github.com/wasento/package-wasento-otp",
     "license": "MIT",
     "authors": [
